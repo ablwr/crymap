@@ -1,0 +1,831 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "trader joe's",
+        "description": "something involving avocados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09770059585571,
+          42.331693980245795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "roxbury home",
+        "description": "happy in love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12096071243286,
+          42.341956355531295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "veggie planet",
+        "description": "something that wasn't even worth getting upset about"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11956596374512,
+          42.374017465291224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "veggie galaxy",
+        "description": "thinking things are finally okay and then thinking nothing is okay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10124111175537,
+          42.36365726858562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "J.P. Licks",
+        "description": "unsure what I'm doing here (in general and in specific)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11416399478912,
+          42.31286998688038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "work trip",
+        "description": "tired of working while husband actively is cheating on me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11465215682983,
+          42.311898093943704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "boston arboretum",
+        "description": "cramps and guilt, but mostly cramps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12027406692505,
+          42.30722089723836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "health food store",
+        "description": "cramps and guilt, but mostly guilt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11570358276367,
+          42.29910341042145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "boston common",
+        "description": "on a date with someone I hate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06610417366028,
+          42.35584834013043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "boston common",
+        "description": "just losing it thinking about those stupid fucking duck tours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07028841972351,
+          42.354112009954896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "christian science center promonade",
+        "description": "something involving lavender"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08433246612549,
+          42.3439388470578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "driving away from Cambridge, accidentally",
+        "description": "not knowing why the fuck I live here and also driving in the wrong direction and now I have to drive in downtown Boston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06051445007324,
+          42.36976896085545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "across the street from christina's",
+        "description": "saying bye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09867691993713,
+          42.373383378396724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "someone's summer sublet",
+        "description": "really just not wanting to do any of this"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1276340484619,
+          42.401071157363994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "apartment in east somerville",
+        "description": "thinking my husband wasn't cheating on me but finding out I was wrong and realizing it at this birthday party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09328031539917,
+          42.378709509340155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "craft fair",
+        "description": "meeting future boyfriend and feeling doomed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12375557422638,
+          42.397398910423114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "parking near davis square",
+        "description": "arguing in the car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12446367740631,
+          42.396119317582155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "coolidge corner",
+        "description": "I thought you wanted to see a movie, thats why I walked all the way over here, no it's fine, no really, it's totally fine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12217307090759,
+          42.34273746465552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "driving past central square",
+        "description": "hating being in this situation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10478699207306,
+          42.36605524726218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "brattle theater",
+        "description": "hating being lied to"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12279534339905,
+          42.375103324229265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "driving past harvard",
+        "description": "hating being lied to"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11959815025328,
+          42.376292199345414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "walking past harvard",
+        "description": "hating being lied to"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11843943595886,
+          42.37328826481042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "driving past MIT",
+        "description": "scared of running into someone who ruined my life with the person whose life he would maybe eventually ruin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10051155090332,
+          42.354865218433794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "downtown boston",
+        "description": "hating driving"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06111526489258,
+          42.35829022102702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "going to watertown for work",
+        "description": "hating driving"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13492965698242,
+          42.377314613944506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "moving to south carolina",
+        "description": "boyfriend not giving a shit I'm moving away"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24565124511719,
+          42.34738030389109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "driving past northeastern",
+        "description": "hating being lied to"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08660697937012,
+          42.34135366571693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "walking past museum of fine arts",
+        "description": "sad, confused"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09458923339844,
+          42.338292546688116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "driving from somerville to salem",
+        "description": "getting a flat tire and feeling completely alone, then getting scolded on the phone for no reason"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02506637573242,
+          42.42415345680553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "salem police station",
+        "description": "crying while trying to retrieve a stolen car and report a break-in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89659929275513,
+          42.51622371902312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "salem willows",
+        "description": "missing future ex-boyfriend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86891889572144,
+          42.53646511163049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "driving from salem to danvers",
+        "description": "hating snow and hating living in massachusetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8867073059082,
+          42.540654892956546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "apartment",
+        "description": "many, many, many things"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88541984558105,
+          42.522138679128304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "apartment",
+        "description": "reading a letter from my neighbor telling me my cat had died"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88456153869629,
+          42.52441594762731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "boyfriend's car outside apartment",
+        "description": "telling my boyfriend I'd miss him when I moved and him saying nothing and driving away"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88417530059814,
+          42.52419850369896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "cinema salem",
+        "description": "hating being lied to"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89359521865845,
+          42.522312640066815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "temporary office",
+        "description": "being bullied about eating habits and crying in the bathroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89658856391907,
+          42.52152981202901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "catsitting at friends apartment",
+        "description": "thinking about my recently deceased cat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8931016921997,
+          42.52190145888604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "coworkers apartment",
+        "description": "coworkers reading more chat logs detailing my husband cheating on me out loud to me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89125633239746,
+          42.52599733524799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "work appointment",
+        "description": "hating working, unsure what I'm doing with my life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8962345123291,
+          42.51739410315592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "courthouse",
+        "description": "crying while filing a restraining order on a person I assumed I was gonna spend the rest of my life with"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89563369750977,
+          42.52240752764733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lawyer's office, hired for divorce",
+        "description": "explaining my situation to divorce lawyer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8964705467224,
+          42.52232845467359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lawyer's office, hired for corporate mitigation",
+        "description": "explaining situation to business mitigation lawyer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89464664459229,
+          42.521664237743146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "lawyer's office, not hired, parking lot",
+        "description": "feeling scared of lawyers and the mess I found myself in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89913129806519,
+          42.51995621892629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "friend's house",
+        "description": "sad about moving away"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8951187133789,
+          42.51140751580192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "grocery store",
+        "description": "isolation and fear of being caught in this isolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.89610576629639,
+          42.510458466469494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "salem woods",
+        "description": "getting lost in the woods and unsure how to get out again"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91331481933594,
+          42.4972256361276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "salvation army, saugus",
+        "description": "listening to black tambourine and unsure how to move forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01716995239258,
+          42.49259783489407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "kowloon (restaurant)",
+        "description": "composing self before having a meeting about financially settling breakup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02498054504395,
+          42.46784713129357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "danvers",
+        "description": "hating the snow, hating driving, hating massachusetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.94372034072876,
+          42.55248753044534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "danvers, work",
+        "description": "hating working multiple jobs but having no money"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.941241979599,
+          42.55366513850182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "danvers, work",
+        "description": "getting a phone call to let me know my grandmother had died and crying in the bathroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9406304359436,
+          42.553443844723546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "warehouse in peabody",
+        "description": "coworkers reading chat logs detailing my husband cheating on me out loud to me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91929078102112,
+          42.5236608209176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "peabody stop n shop",
+        "description": "wondering why am I even doing this right now"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91725766658782,
+          42.52332476682933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "peabody warehouse parking lot",
+        "description": "getting car stolen in front of me by cheating husband"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91911375522614,
+          42.52396919837282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "beverly",
+        "description": "dreading being around other people because all I ever do is cry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.87934732437134,
+          42.547041792177474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "saver's",
+        "description": "being totally unsure why I ever do anything, ever, and wondering if I'd always feel like this"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93496561050415,
+          42.55146797263828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "the friend ship",
+        "description": "walked past the salem 'friend ship' but it was out to sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88672876358032,
+          42.521553534234876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "commute",
+        "description": "accidentally listened to The Moon by The Microphones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.87653636932373,
+          42.52892279681573
+        ]
+      }
+    }
+  ]
+}

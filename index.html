@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"
+     integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ=="
+     crossorigin=""/>
+     <link href="https://fonts.googleapis.com/css?family=Overpass:200,400,700" rel="stylesheet">
+     <link rel="stylesheet" href="css.css">
+  </head>
+  <body>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"
+       integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg=="
+       crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+    </script>
+    <script type="text/javascript">
+      var map = L.map('map',{
+        center: [42.456394245096185, -71.0437774658203],
+        zoom: 12
+      });
+
+      L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}', {
+      	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      	subdomains: 'abcd',
+      	minZoom: 0,
+      	maxZoom: 20,
+      	ext: 'png'
+      }).addTo(map);
+
+      var cryingEmoji = L.icon({
+        iconUrl: 'crying.png',
+        iconSize:     [36, 36],
+        iconAnchor:   [22, 36],
+        popupAnchor:  [-3, -36]
+      });
+
+      var geojsonLayer = new L.geoJSON.ajax("crymap.geojson", {
+        pointToLayer: function (feature, latlng) {
+    			return L.marker(latlng, {icon: cryingEmoji});
+      	},
+        onEachFeature: function (feature, layer) {
+          layer.bindPopup('<p><strong>'+feature.properties.title+'</strong><br/>'+feature.properties.description+'</p>');
+        }
+      }).addTo(map);
+    </script>
+  </body>
+</html>

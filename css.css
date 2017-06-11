@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+#map {
+  font-family: 'Overpass', sans-serif;
+  min-height: 100%;
+}
+
+.leaflet-popup-content-wrapper {
+  background-color: black;
+  color: white;
+  font-size: 1.25em
+}
+
+.leaflet-popup-content-wrapper p {
+  font-weight: 200;
+}
