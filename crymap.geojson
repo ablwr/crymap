@@ -826,6 +826,62 @@
           42.52892279681573
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "south station",
+        "description": "just wanna go home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0547423362732,
+          42.351788899581074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "emergency snow parking",
+        "description": "tired of snow, tired of shoveling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8807635307312,
+          42.52183820000268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "emergency snow parking",
+        "description": "tired of snow, car stuck in a snowbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8813428878784,
+          42.522818705497635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "parking lot",
+        "description": "What? No, I didn't call your mother and say that you were on drugs. She called me, that's what she asked me. Why would I do that? Why are you doing this? ARE you on drugs?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88520526885986,
+          42.521553534234876
+        ]
+      }
     }
   ]
 }
